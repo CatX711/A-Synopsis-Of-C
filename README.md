@@ -15,6 +15,20 @@ Enjoy, all you "Cool C Coders"!
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
-*A good programmer is someone who always looks both ways before crossing a one-way street*
+## Chapterhouse: C
+
+<br />
+<br />
+
+*A good programmer is someone who always looks both ways before crossing a one-way street* <br />
   *- Doug Linder*
+
+<br />
+<br />
+<br />
+
+d
