@@ -56,13 +56,22 @@ In other words,
 <br />
 <br />
 
-C programmers are essentially their own church.
+C programmers are their own religion.
 
 <br />
 <br />
 
 Now, I don't say this in a rude way- Writing programs in C is an *`art`*. <br />
-It requires extensive knowledge of computers: memory, bytes and notwhat. It takes a good amount of patience and skill. <br /> <br >
+It requires extensive knowledge of computers: memory, bytes and notwhat. A good amount of patience and skill is needed. <br /> <br >
 
 The ordinary man cannot write C code. Only a brave soul destined to be one of the greats can dare challenge this beast of a programming language!
 
+
+<br />
+<br />
+
+Okay, okay, let's not get ahead of ourselves. C programmers obviously aren't part of a religion controlled by Bill Gates...
+
+<h5> right? </h5>
+
+No, they're not. But, C programmers have every right to brag about their language. If you see any extraordinary programs, reality bending and mind boggling concoctions of code, then it's probably written in C. 
