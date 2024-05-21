@@ -9,3 +9,12 @@ Enjoy, all you "Cool C Coders"!
 <br />
 
 >  P.S: If you dont code in C, and instead are just reading to get an overview on the language or to... read, then feel free to still call yourself a Cool C Coder. Don't worry, we have you covered!
+
+
+<br />
+<br />
+<br />
+<br />
+
+*A good programmer is someone who always looks both ways before crossing a one-way street*
+  *- Doug Linder*
