@@ -42,7 +42,8 @@ Enjoy, all you "Cool C Coders"!
 <br />
 <br />
 
->*A good programmer is someone who always looks both ways before crossing a one-way street* <br />
+>A good programmer is someone who always looks both ways before crossing a one-way street <br /> <br />
+>
 >  *- Doug Linder*
 
 <br />
