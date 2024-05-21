@@ -10,7 +10,7 @@ Enjoy, all you "Cool C Coders"!
 
 
 
-<h5> P.S: If you dont code in C, and instead are just reading to get an overview on the language or to... read, then feel free to still call yourself a Cool C Coder. Don't worry, we have you covered! </h5>
+<h6> P.S: If you dont code in C, and instead are just reading to get an overview on the language or to... read, then feel free to still call yourself a Cool C Coder. Don't worry, we have you covered! </h6>
 
 
 <br />
