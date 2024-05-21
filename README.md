@@ -70,8 +70,6 @@ The ordinary man cannot write C code. Only a brave soul destined to be one of th
 <br />
 <br />
 
-Okay, okay, let's not get ahead of ourselves. C programmers obviously aren't part of a religion controlled by Bill Gates...
-
-<h5> right? </h5>
+Okay, okay, let's not get ahead of ourselves. C programmers obviously aren't part of a religion controlled by Bill Gates... <h5> right? </h5>
 
 No, they're not. But, C programmers have every right to brag about their language. If you see any extraordinary programs, reality bending and mind boggling concoctions of code, then it's probably written in C. 
