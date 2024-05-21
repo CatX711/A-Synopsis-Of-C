@@ -72,7 +72,7 @@ The ordinary man cannot write C code. Only a brave soul destined to be one of th
 
 Okay, okay, let's not get ahead of ourselves. C programmers obviously aren't part of a religion... <h5> right? </h5>
 
-No, they're not. But, C programmers have every right to brag about their language (don't worry, they aren't being mind controlled by Ken Thompson). If you see any extraordinary programs, reality bending and mind boggling concoctions of code, then they're probably written in C. 
-If not, their foundations were made in C code. What do I mean by this? Well, C is the basis for almost every programming language to date. That's not info to be taken lightly: lists such as the `TIOBE Index` estimate there are around 700-900 programming languages to date. That's a lotta C. `(Si, senor!)`
+No, they're not. < br />
+C programmers have every right to brag about their language (don't worry, they aren't being mind controlled by Ken Thompson). If you see any extraordinary programs, reality bending and mind boggling concoctions of code, then they're probably written in C. If not, their foundations were made in C code. What do I mean by this? Well, C is the basis for almost every programming language to date. That's not info to be taken lightly: lists such as the `TIOBE Index` estimate there are around 700-900 programming languages to date. That's a lotta C. `(Si, senor!)`
 
 
